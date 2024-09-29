@@ -28,8 +28,8 @@ Now that they have these results, the next steps are to:
 1. Identify which areas of the business need more awareness about phishing.
 2. Design and implement targeted training for those teams to reduce the risk of a real attack
 
-Here is my presentation 
-[Link to PDF](./path-to-your-pdf.pdf)
+Here is my presentation  
+[Download presentation here](./Lwando_Potential presentation Task 2.pptx)
 
 ##### What learned
 1. How to identify which areas of the business need more awareness about phishing
