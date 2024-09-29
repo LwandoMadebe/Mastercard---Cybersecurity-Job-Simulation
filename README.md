@@ -14,6 +14,11 @@ By continuing to raise awareness and improve our security practices, we can bett
 
 My task was to create a believable phishing email for Mastercard’s next phishing simulation campaign. This was an awesome opportunity for me to step up and show what I can do.
 
+##### What I learned
+1. What threat phishing presents to an organization 
+2. What different types of phishing emails look like
+3. How Mastercard prevents and mitigates phishing threat
+
 ### Task Two
 
 
