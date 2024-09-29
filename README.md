@@ -1,6 +1,6 @@
 # Mastercard---Cybersecurity-Job-Semulation
 
-#### Task One
+### Task One
 
 I was working as an analyst in Mastercard Security Awareness Team, I play a crucial role in helping our staff at Mastercard learn how to identify and report security threats. One of the most common threats we face today is phishing.
 
@@ -10,7 +10,7 @@ At Mastercard, we take proactive steps to mitigate phishing threats by educating
 
 By continuing to raise awareness and improve our security practices, we can better protect ourselves and our organization from these threats.
 
-###### My Task
+#### My Task
 
 My task is to create a believable phishing email for Mastercard’s next phishing simulation campaign. This is an awesome opportunity for me to step up and show what I can do.
 
