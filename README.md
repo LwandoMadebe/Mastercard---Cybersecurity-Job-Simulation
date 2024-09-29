@@ -10,8 +10,6 @@ At Mastercard, they take proactive steps to mitigate phishing threats by educati
 
 By continuing to raise awareness and improve our security practices, we can better protect ourselves and our organization from these threats.
 
-#### My Task
-
 My task was to create a believable phishing email for Mastercard’s next phishing simulation campaign. This was an awesome opportunity for me to step up and show what I can do.
 
 ##### What I learned
@@ -20,6 +18,12 @@ My task was to create a believable phishing email for Mastercard’s next phishi
 3. How Mastercard prevents and mitigates phishing threat
 
 ### Task Two
+
+##### What learned
+1. How to identify which areas of the business need more awareness about phishing
+2. How to design and implement the appropriate training for those teams to lower our risk of an attack
+
+
 
 
 
