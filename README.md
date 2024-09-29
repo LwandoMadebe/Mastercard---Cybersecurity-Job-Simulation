@@ -28,6 +28,8 @@ Now that they have these results, the next steps are to:
 1. Identify which areas of the business need more awareness about phishing.
 2. Design and implement targeted training for those teams to reduce the risk of a real attack
 
+My task was to create a presentation create a short presentation (3-5 slides) providing some awareness and training materials for the two teams that appear to be most susceptible. This will help Mastercard improve the security awareness of the teams that performed poorly in this campaign.
+
 Here is my presentation  [Download](./presentation.pptx)
 
 ##### What learned
