@@ -35,6 +35,9 @@ Here is my presentation
 1. How to identify which areas of the business need more awareness about phishing
 2. How to design and implement the appropriate training for those teams to lower our risk of an attack
 
+Download my certification here
+
+
 
 
 
