@@ -1,4 +1,4 @@
-# Mastercard---Cybersecurity-Job-Semulation
+# Mastercard---Cybersecurity-Job-Simulation
 
 ### Task One
 
